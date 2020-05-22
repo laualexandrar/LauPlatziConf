@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15719612766",
+    "firebase_url": "https://lauconfplatziapp.firebaseio.com",
+    "project_id": "lauconfplatziapp",
+    "storage_bucket": "lauconfplatziapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15719612766:android:7366777355b08ac9888fcf",
+        "android_client_info": {
+          "package_name": "com.lroap.platziconf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15719612766-dbj2aob4srpg08lqcdqb5d0bi73qjpqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lroap.platziconf",
+            "certificate_hash": "675b50b831534d0f736993bdf68a553883aabb77"
+          }
+        },
+        {
+          "client_id": "15719612766-ph1m60k3fgpli19o8c65o333bakh3e04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XKgISOJepCJL1bgDL65NaAKYFAe7XIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15719612766-ph1m60k3fgpli19o8c65o333bakh3e04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
